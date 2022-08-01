@@ -2,3 +2,5 @@
 
 - Demystifying Dependency Injection: Angular vs NestJS - Kamil Mysliwiec | NG-DE 2019
  https://www.youtube.com/watch?v=vYFhHVMetPg
+
+- Reflection https://en.wikipedia.org/wiki/Reflective_programming
